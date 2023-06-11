@@ -147,7 +147,7 @@ body {
 
 .weather-details span {
     color: #06283D;
-    font-size: 10px;
+    font-size: 16px;
     font-weight: 500px;
 }
 
@@ -160,7 +160,6 @@ body {
 .not-found {
     width: 100%;
     text-align: center;
-    margin-top: 50px;
     scale: 0;
     opacity: 0;
     display: none;
